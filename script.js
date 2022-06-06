@@ -49,3 +49,9 @@ else {
 document.getElementById("life").innerHTML = life;
 };
 
+
+ const reStart = () =>{
+    location.reload(true);
+  };
+
+

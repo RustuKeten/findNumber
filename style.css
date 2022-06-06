@@ -44,6 +44,7 @@ h4{
     color: azure;
 }
 #result {
+    margin-top: 2rem;
     display: flex;
     justify-content: center;
     color: azure;
@@ -52,6 +53,7 @@ h4{
     font-style: italic;
 }
 #life {
+    margin-top: 2rem;
     display: flex;
     justify-content: center;
     color: azure;
@@ -73,6 +75,14 @@ h4{
     justify-content: center;
    
 }
-
+.btn-2{
+    display: flex;
+    justify-content: center;
+    color: rgb(143, 197, 197);
+}
+.reset{
+    margin-top: 4rem;
+    background-color:rgb(221, 162, 72);
+}
 
 
